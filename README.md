@@ -1,15 +1,30 @@
 ## Module 7 - Project 1 - Group 7
+# Question
+An Electric vehicle dealership want to establish a dealership in the united states. Gather Data and Provide analysis and visualisations as to which state will the
+dealership thrive to be succesful
+
+# Analysis
 
 Within our analysis, we will investigate:
+Top 5 states where the sales are the highest.
+Top 5 states where the states have the growth percentage in sales over the year 2019-2020
+Top 5 states with the most cheargin outlets
+Top 5 states with the highest fuel average price
 
-Year on Year (2019 to 2020) – all states – GeoApify – dot plot – size according to %
+# Visualisation
+bar graphs for the trend of ev sales over the years
+bar graph for the trend of charging outlets over the years
+scatter plots of ev sales vs average fuel price and show corealltaion
+scatter plots of ev sales vs charging ports and show corellation
+geopaify hvplots for the states with size = total ev sales
+geoapify hvplots for the states with size = yoy growth percentage.
 
-The number of electric car sales in each State over the years 2019 to 2021 
-– bar chart – sort highest to lowest – top 5
--	API plot top 
+# Conclusion and infereces
 
-The number of electric car charging stations in each State over the years 2019 to 2021 
-- bar chart - highest to lowest – top 10.
+
+
+
+
 
 Linear Correlation Scatter plot average fuel price and sales of electric vehicles 
 
