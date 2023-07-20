@@ -1,10 +1,7 @@
 # Module 7 - Project 1 - Group 7
  
 ## Prepared by:
-Manasa Uppalapati
-Mireille Walton
-Mohammed Irfhan Varani
-Priya 
+Manasa Uppalapati, Mireille Walton, Mohammed Irfhan Varani, Priya 
 
 ## Question
 An Electric vehicle dealership want to establish a dealership in the united states. Gather data and prepare analysis and visualisations as to which state will the
